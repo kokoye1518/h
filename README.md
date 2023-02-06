@@ -34,7 +34,8 @@ GIF created with LiceCap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had a lot of trouble with differences between the walkthrough UI's and the ones I have for android studio It made me go on a little bit of a goose chase to figure
+out why my code was not committing correctly and why it did not look the same way the walkthroughs did. It honestly made me turn it in late. I had just heard about code path thanks to my school University of Maryland - College Park doing a resume review for out career fair that was sponsored from them. I would still love to be able to enroll in this course after hearing about all the things that I can do at these CodePath courses and how after seeing how intricate these walkthroughs are I learned so much about git, android studio, and kotlin in just a few short hours. I would love to be apart of this learning community. 
 
 ## License
 
